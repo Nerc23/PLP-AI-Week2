@@ -5,8 +5,7 @@ SDG 13: Climate Action - Carbon Emission Forecasting
 This module handles real-time predictions and scenario analysis for
 carbon emission forecasting.
 
-Author: PLP Academy Student
-Date: January 2025
+Author: PLP Academy Student - Nercia 
 Assignment: Week 2 - AI for Sustainable Development
 """
 
