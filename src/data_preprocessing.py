@@ -6,7 +6,6 @@ This module handles data collection, cleaning, and preprocessing for the
 climate emission prediction model.
 
 Author: PLP Academy Student
-Date: January 2025
 Assignment: Week 2 - AI for Sustainable Development
 """
 
