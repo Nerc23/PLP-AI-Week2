@@ -208,9 +208,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Live Demo](https://climateai-sdg13.netlify.app)
 - [Jupyter Notebook](notebooks/climate_emissions_analysis.ipynb)
 - [Model Documentation](docs/model_documentation.md)
-- [API Documentation](docs/api_documentation.md)
-- [Deployment Guide](docs/deployment.md)
+
+
 
 ---
 
-*Last Updated: January 2025*
