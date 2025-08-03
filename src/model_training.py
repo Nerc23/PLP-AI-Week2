@@ -5,8 +5,7 @@ SDG 13: Climate Action - Carbon Emission Forecasting
 This module handles machine learning model training, evaluation, and optimization
 for carbon emission prediction.
 
-Author: PLP Academy Student
-Date: January 2025
+Author: PLP Academy Student = Nercia Motsepe
 Assignment: Week 2 - AI for Sustainable Development
 """
 
