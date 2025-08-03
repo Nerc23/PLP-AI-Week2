@@ -1,0 +1,66 @@
+# ClimateAI - SDG 13 Climate Action ML Solution
+# Python Dependencies for Carbon Emission Forecasting
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.1.0
+joblib>=1.2.0
+
+# Optional Deep Learning (uncomment if needed)
+# tensorflow>=2.10.0
+# torch>=1.12.0
+
+# Data Processing
+scipy>=1.9.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.15.0
+notebook>=6.4.0
+
+# Visualization Enhancement
+plotly>=5.10.0
+
+# Web Application (if deploying with Flask/Streamlit)
+# flask>=2.2.0
+# streamlit>=1.12.0
+
+# API Integration (for real-time data)
+requests>=2.28.0
+
+# Development and Testing
+pytest>=7.1.0
+black>=22.6.0
+flake8>=5.0.0
+
+# Documentation
+sphinx>=5.1.0
+
+# Environment Management
+python-dotenv>=0.20.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Date/Time Handling
+python-dateutil>=2.8.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Performance Optimization
+numba>=0.56.0
+
+# Data Validation
+pydantic>=1.10.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# Logging
+loguru>=0.6.0
