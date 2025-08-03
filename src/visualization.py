@@ -5,8 +5,7 @@ SDG 13: Climate Action - Carbon Emission Forecasting
 This module provides comprehensive visualization capabilities for
 climate data analysis and model results.
 
-Author: PLP Academy Student
-Date: January 2025
+Author: PLP Academy Student - Nercia
 Assignment: Week 2 - AI for Sustainable Development
 """
 
