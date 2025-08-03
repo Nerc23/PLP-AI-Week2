@@ -29,21 +29,7 @@ Climate change is one of the most pressing challenges of our time. To achieve SD
 
 ## 🚀 Project Demo Screenshots
 
-### 1. Interactive ML Model Demo
-![Model Demo](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800)
-*Interactive feature selection and real-time prediction interface*
-
-### 2. Data Visualization Dashboard
-![Data Visualization](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=800)
-*Comprehensive emissions trends and sector analysis*
-
-### 3. Model Performance Results
-![Results Dashboard](https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800)
-*95% accuracy achievement and performance metrics*
-
-### 4. Ethical Considerations Framework
-![Ethics Framework](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800)
-*Comprehensive bias mitigation and responsible AI practices*
+*See under images folder*
 
 ## 🛠️ Technical Implementation
 
